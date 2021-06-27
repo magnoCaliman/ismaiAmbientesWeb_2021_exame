@@ -1,0 +1,14 @@
+* EXAME AMBIENTES WEB - 2021
+** ENUNCIADO DO EXAME
+- Crie, tal qual o Momento 3 de avaliação, um site de conteúdo livre que se proponha enquanto uma /experiência interativa/, explorando as possibilidades narrativas, visuais, e sonoras, que o espaço virtual hyperlinkado proporciona.
+  - Mais "site inútil" e menos "site funcional".
+- O site deve obrigatoriamente fazer uso dos conteúdos de CSS de ao menos um dos tutoriais produzidos pelos grupos de investigação (referências [[https://drive.google.com/drive/folders/1OeTQQP6OJQNl_jr7ZqyEpJv0niQAfrN5?usp=sharing][aqui]] e [[https://github.com/magnoCaliman/ismaiAmbientesWeb_2021/blob/master/notasAmbientesWeb_2021_git.org#aula-09---04mai][aqui]]).
+- Não é obrigatória a utilização de JavaScript. A utilização agrupará pontos extras à nota final.
+  
+** FORMATO DE ENTREGA
+- A entrega deve ser feita através de upload no portal da ISMAI, até as *23:59 de 1/julho*, de *link para acesso do site*, ou seja, não apenas referência ao repositório, mas sim site hospedado e funcional. 
+
+** OBSERVAÇÕES FINAIS
+- O exame deve ser realizado de forma *individual*, sem consulta a nenhum colega.
+- A detecção de plágio ou cópia de código entre os participantes do exame /ou alunos que já foram aprovados/ implicará na instantânea reprovação de *ambos os alunos*.
+- Caso eu julgue necessário, após a entrega será agendada chamada no Teams onde o aluno deverá responder questões sobre o código entregue, estando assim a nota condicionada às respostas dadas.
